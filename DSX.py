@@ -29,7 +29,7 @@ def download_file_to_memory(url):
         raise Exception(f"Failed to download file from {url}")
 
 def banner():
-    print("""
+    print(r"""
    ___  _____  __
   / _ \/ __/ |/_/
  / // /\ \_>  <   v0.1.0
