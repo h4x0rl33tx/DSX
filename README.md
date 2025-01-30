@@ -16,7 +16,7 @@ cd DSX
 Install the required dependencies following command:
 
 ```bash
-pip install ds_store requests
+pip install -r requirements.txt
 ```
 
 ## Usage
