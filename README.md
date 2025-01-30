@@ -23,7 +23,7 @@ python DSX.py http://example.com/path/to/your/file.DS_Store
 ```
 The tool will output the directories and files contained within the specified .DS_Store file.
 
-## Example Output
+## Output
 When you run the tool, you will see output similar to the following:
 ```
 Directories:
