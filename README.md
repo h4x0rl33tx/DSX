@@ -1,5 +1,3 @@
-# DSX Tool Documentation
-
 ## Overview
 DSX is a powerful tool designed for parsing and analyzing `.DS_Store` files, commonly used by macOS to store custom attributes of a folder. This tool allows users to easily extract directory and file information from these files, providing a straightforward interface for data analysis.
 
