@@ -36,8 +36,3 @@ Files:
 file1.txt
 file2.jpg
 ```
-## Contributing
-We welcome contributions! Please read our contributing guidelines for more information.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
