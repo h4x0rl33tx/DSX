@@ -13,7 +13,7 @@ git clone https://github.com/h4x0rl33tx/DSX.git
 cd DSX
 ```
 
-To install the required dependencies, run the following command:
+Install the required dependencies following command:
 
 ```bash
 pip install ds_store requests
