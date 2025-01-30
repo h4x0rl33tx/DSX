@@ -4,8 +4,6 @@ DSX is a powerful tool designed for parsing and analyzing `.DS_Store` files, com
 ## Features
 - **File Parsing**: Efficiently parse `.DS_Store` files to extract directories and files.
 - **URL Support**: Download and parse `.DS_Store` files directly from URLs.
-- **User-Friendly Interface**: Simple command-line interface for ease of use.
-- **Logging**: Provides informative logging to track the process and errors.
 
 ## Installation
 To install the required dependencies, run the following command:
