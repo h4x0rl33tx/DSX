@@ -13,6 +13,26 @@ git clone https://github.com/h4x0rl33tx/DSX.git
 cd DSX
 ```
 
+Create a virtual environment (optional but recommended):
+
+```bash
+python -m venv .venv
+```
+
+Activate the virtual environment:
+
+- On Windows:
+
+```bash
+.\.venv\Scripts\activate
+```
+
+- On macOS/Linux:
+
+```bash
+source .venv/bin/activate
+```
+
 Install the required dependencies following command:
 
 ```bash
