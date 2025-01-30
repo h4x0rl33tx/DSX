@@ -28,7 +28,7 @@ def download_file_to_memory(url):
     else:
         raise Exception(f"Failed to download file from {url}")
 
-def print_banner():
+def banner():
     print("""
    ___  _____  __
   / _ \/ __/ |/_/
@@ -38,7 +38,7 @@ def print_banner():
     """)
 
 def main():
-    print_banner()
+    banner()
 
     parser = argparse.ArgumentParser(description="Parse .DS_Store file and extract directories and files.")
     parser.add_argument("input", help="Path to .DS_Store file or URL", nargs="?", default=None)
