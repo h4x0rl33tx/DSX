@@ -6,6 +6,13 @@ DSX is a powerful tool designed for parsing and analyzing `.DS_Store` files, com
 - **URL Support**: Download and parse `.DS_Store` files directly from URLs.
 
 ## Installation
+Clone the repository from GitHub:
+
+```bash
+git clone https://github.com/h4x0rl33tx/DSX.git
+cd DSX
+```
+
 To install the required dependencies, run the following command:
 
 ```bash
