@@ -13,7 +13,7 @@ pip install ds_store requests
 ```
 
 ## Usage
-Here’s a quick example of how to use the DSX tool from the command line
+Here’s a quick example of how to use the DSX tool from the command line:
 ```bash
 python DSX.py path/to/your/file.DS_Store
 ```
